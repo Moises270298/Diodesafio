@@ -41,15 +41,10 @@ Clone este repositório.
 Navegue até o diretório do projeto.
 
 Execute o script principal:
-
-bash
-Copiar código
 python main.py
 Exemplo de Uso
 Ao iniciar o programa, você verá o seguinte menu:
 
-css
-Copiar código
 ================ MENU ================
 [d]    Depositar
 [s]    Sacar
@@ -70,6 +65,5 @@ Adicionar suporte para contas poupança e outras modalidades de contas.
 Implementar autenticação de cliente.
 Adicionar interface gráfica para facilitar o uso do sistema.
 Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Desfrute do seu sistema bancário simples em Python! Se tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou um pull request.
